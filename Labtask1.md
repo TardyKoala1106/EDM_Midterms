@@ -14,4 +14,5 @@
 - Step Eleven: Create a Relational Data Model
 
   ## Sample Output:
-  
+ ! [screenshot] 
+ (images/
