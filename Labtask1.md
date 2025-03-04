@@ -13,7 +13,7 @@
 - Step Ten: Create necessary IDs and Normalize the data
 
   ## Cleaned Data Table:
-<file src="ways_to_clean_dataRaw(Andrei).xlsx" alt="Alt Text" width="400" height="300">
+[File Link:] (https://github.com/TardyKoala1106/EDM_Midterms/blob/main/ways_to_clean_dataRaw(Andrei).xlsx) 
 
 - Step Eleven: Create a Relational Data Model
 
