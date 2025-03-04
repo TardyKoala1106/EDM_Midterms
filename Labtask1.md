@@ -15,4 +15,4 @@
 
   ## Sample Output:
  ! [screenshot] 
- (images/
+ (images/Lab1(Andrei).png) 
