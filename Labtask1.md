@@ -15,4 +15,5 @@
 
   ## Sample Output:
  ! [screenshot] 
- (images/Lab1(Andrei).png) 
+ (images/Lab1(Andrei).png)
+ <img src="images/Lab1(Andrei).png" alt="Alt Text" width="400" height="300">
