@@ -42,7 +42,7 @@ a. Clean the "Salary Estimate" Column
    - Go to the Add Column tab and click on Custom Column.
    - In the New column name box, type Role Type.
    - In the Custom column formula box, enter the following formula:
-     ```m
+
      if Text.Contains([Job Title], "Data Scientist") then "Data Scientist"
      else if Text.Contains([Job Title], "Data Analyst") then "Data Analyst"
      else if Text.Contains([Job Title], "Data Engineer") then "Data Engineer"
