@@ -8,4 +8,4 @@ A student in Information Systems with a keen interest in expanding their program
 - Senior High School: Don Antonio Lee Chi Uan Integrated School
 ## My Projects
 - [Midterm Lab Task 1](Labtask1.md)
-
+- [Midterm Lab Task 2](Labtask2.md)
