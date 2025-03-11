@@ -12,7 +12,7 @@
 - Step Nine: Find & Replace
 - Step Ten: Create necessary IDs and Normalize the data
 
-  ## Cleaned Data Table:
+  ## File link:
 [File Link:] (https://github.com/TardyKoala1106/EDM_Midterms/blob/main/ways_to_clean_dataRaw(Andrei).xlsx) 
 
 - Step Eleven: Create a Relational Data Model
