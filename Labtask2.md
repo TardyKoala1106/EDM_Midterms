@@ -52,11 +52,9 @@ a. Clean the "Salary Estimate" Column
 6. Apply and Close
    - Once all the steps are complete, click Close & Load to load the transformed data back into Excel.
   
-## Output:
-
 ## File Link:
 
-## Samples:
+## Sample Output:
 
 
 
