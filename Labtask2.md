@@ -1,4 +1,4 @@
-## Midterm Lab Task 2
+## Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
 ## Data Cleaning Progress 
 
 
