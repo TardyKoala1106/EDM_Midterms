@@ -51,10 +51,20 @@ a. Clean the "Salary Estimate" Column
 
 6. Apply and Close
    - Once all the steps are complete, click Close & Load to load the transformed data back into Excel.
-  
-## File Link:
+## Output:
+# Clean data:
 
-## Sample Output:
+# Salary by role type:
+
+# Salary by size ref:
+
+# Salary by state ref:
+
+# States
+
+
+
+
 
 
 
