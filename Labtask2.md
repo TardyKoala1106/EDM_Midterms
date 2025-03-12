@@ -71,6 +71,9 @@ a. Clean the "Salary Estimate" Column
 # States
 <img src="states.png" alt="Alt Text">
 
+## Dependencies:
+<img src="tables.png" alt="Alt Text">
+
 
 
 
