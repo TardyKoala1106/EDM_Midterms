@@ -7,5 +7,5 @@ A student in Information Systems with a keen interest in expanding their program
 - Junior High School: Don Antonio Lee Chi Uan Integrated School
 - Senior High School: Don Antonio Lee Chi Uan Integrated School
 ## My Projects
-- Midterm Lab Task 1:[Click here](Labtask1.md)
-- Midterm Lab Task 2:[Click here](Labtask2.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Labtask1.md)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Labtask2.md)
