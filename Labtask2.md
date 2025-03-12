@@ -53,14 +53,20 @@ a. Clean the "Salary Estimate" Column
    - Once all the steps are complete, click Close & Load to load the transformed data back into Excel.
 ## Output:
 # Clean data:
+<img src="clean.png" alt="Alt Text" width="400" height="300">
 
 # Salary by role type:
+<img src="salbyrole.png" alt="Alt Text" width="400" height="300">
 
-# Salary by size ref:
+# Salary by role size ref:
+<img src="salbyrolesize.png" alt="Alt Text" width="400" height="300">
 
 # Salary by state ref:
+<img src="salbystate.png" alt="Alt Text" width="400" height="300">
 
 # States
+<img src="states.png" alt="Alt Text" width="400" height="300">
+
 
 
 
