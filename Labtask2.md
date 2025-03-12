@@ -51,6 +51,10 @@ a. Clean the "Salary Estimate" Column
 
 6. Apply and Close
    - Once all the steps are complete, click Close & Load to load the transformed data back into Excel.
+  
+## File Link:
+[File Link:] () 
+
 ## Output:
 # Clean data:
 <img src="clean.png" alt="Alt Text">
