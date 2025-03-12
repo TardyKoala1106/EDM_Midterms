@@ -18,4 +18,4 @@
 - Step Eleven: Create a Relational Data Model
 
   ## Sample Output:
- <img src="Lab1(Andrei).png" alt="Alt Text" width="400" height="300">
+ <img src="Lab1(Andrei).png">
