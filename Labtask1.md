@@ -1,4 +1,4 @@
-# Midterm Lab Task 1
+# Midterm Lab Task 1 : Data Cleaning and Preparation using EXCEL
 
 # Data Cleaning Progress
 - Step One: Autofit Columns and Rows
