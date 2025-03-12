@@ -53,7 +53,7 @@ a. Clean the "Salary Estimate" Column
    - Once all the steps are complete, click Close & Load to load the transformed data back into Excel.
   
 ## File Link:
-[File Link:] () 
+[File Link:] (https://github.com/TardyKoala1106/EDM_Midterms/blob/main/alozanomidtermlab2.xlsx) 
 
 ## Output:
 # Clean data:
