@@ -74,8 +74,7 @@ Step 1: Creating Pivot Tables
    - Use charts and colors to visually emphasize the most important insights.
 
 #Output:
-<img = src>
-
+<img src="Pivot Table.png" alt="Alt Text">
 
 
 
