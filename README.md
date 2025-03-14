@@ -9,3 +9,4 @@ A student in Information Systems with a keen interest in expanding their program
 ## My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Labtask1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Labtask2.md)
+- Midterm Lab Task 3: [Creating Pivot Tables and Charts](Labtask3.md)
