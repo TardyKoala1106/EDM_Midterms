@@ -73,7 +73,7 @@ Step 1: Creating Pivot Tables
    - Consider making the dashboard visually appealing by adjusting the font styles, adding borders, and ensuring that the text is legible.
    - Use charts and colors to visually emphasize the most important insights.
 
-#Output:
+## Output:
 <img src="Pivot Table.png" alt="Alt Text">
 
 
