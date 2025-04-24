@@ -1,16 +1,15 @@
-title: "Portfolio"
-description: "Enterprise Data Management Portfolio"
-author: Lozano, Andrei F.
-remote_theme: pages-themes/minimal@v0.2.0
+title: "EDM Portfolio"
+#description: "Enterprise Data Management Portfolio"
+#author: Lozano, Andrei F.
+#remote_theme: pages-themes/minimal@v0.2.0
 
 
-show_downloads: true
+#show_downloads: true
 
-github:
-  is_project_page: true
+#github:
+  #is_project_page: true
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+  #- jekyll-remote-theme
 
-include:
-  - images
+theme: jekyll-theme-minimal
